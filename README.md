@@ -1,2 +1,9 @@
-# Tp-0--Hello-world-
-Diego De Ritis k1051
+# Algoritmos y Estructuras de Datos
+Repositorio público personal para la asignatura Algoritmos y Estructuras de Datos.
+
+Algoritmos y Estructuras de Datos
+Curso: K1051
+Año de cursada: 2022
+Usuario GitHub: DiegoDeRitis
+Nombre: Diego Nicolas De Ritis
+
