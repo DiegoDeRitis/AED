@@ -2,8 +2,10 @@
 
 # Compilador:
 Visual Studio 2019
+
 C++20
-MinGW
+
+MinGW 9.2.0
 
 Enunciado del trabajo Practico:
  # 4.1. Objetivos
