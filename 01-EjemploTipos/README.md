@@ -44,6 +44,8 @@ char, unsigned, int, double, y string.
 
                   ¿Son esos realmente todos los tipos que vimos en clase? Justifique.
                   
+                  Como visto previamente en clase se mencionaron otros tipo de datos tales como short, long como a su vez puede haber derivaciones o combinaciones  tales como las funciones
+                  
 # 6.6. Productos
 ```
 01-EjemploTipos
