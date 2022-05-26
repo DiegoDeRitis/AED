@@ -4,21 +4,29 @@
 //
 
 #include <cassert>
+#include <string>
 #include <iostream>
 
+using namespace std::string_literals;
 int main()
 {
-    bool booleano= true ;
-    char c = 41;
-    unsigned int entero = 45;
-    double doble = 10.5;
-   std::string cadena = "hola";
+    assert(true);
+    assert('a' != 'b');
+    assert(541 == 541);
+    assert(3 < 5);
+    assert(3.1 < 3.5);
+    assert(2u == 2);
+    assert(std::string("las") ==std::string( "la" )+std::string( "s"));
+    assert(12 == "las palabras"s.length());
+    assert(sizeof 'a' == 1); 
+    assert(sizeof 65 == 4);
+   assert(sizeof "hola"s == 28); //probado con cout
+   assert(sizeof "hola"== 5);
 
-   assert(booleano== true);
-   assert(c == '41'); // el statement es falso a proposito
-   assert(doble <= 11);
-   assert(entero == 45);
-   assert(cadena.length() <  13);
+   
+
+
+   
 }
 
 
